@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Gaurav Patel
-### #Full Stack Developer # web3 developer
+### #Full Stack Developer  # web3 developer
 
 - 🌱 I’m currently learning **TypeScript, Next.js and Blockchain development**
 - 👨‍💻 Currently working on [OnlineBlogging](https://github.com/Gaurav135472/BloggingWeb) project
